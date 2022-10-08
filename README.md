@@ -7,13 +7,13 @@
 <a href="#"><img title="Dracule Mihawk" src="https://img.shields.io/badge/Dracule%20Mihawk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NzrlAfndi/Dracule-Mihawk"><img title="AUTHOR" src="https://img.shields.io/badge/Author-Nzrl%20Afndi-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/eabdalmufid/dmsc"><img title="AUTHOR" src="https://img.shields.io/badge/Author-eabdalmufid-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NzrlAfndi/Dracule-Mihawk"><img title="Followers" src="https://img.shields.io/github/followers/NzrlAfndi?color=blue&style=flat-square"></a>
-<a href="https://github.com/NzrlAfndi/Dracule-Mihawk"><img title="Stars" src="https://img.shields.io/github/stars/NzrlAfndi/Dracule-Mihawk?color=red&style=flat-square"></a>
-<a href="https://github.com/NzrlAfndi/Dracule-Mihawk/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NzrlAfndi/Dracule-Mihawk?color=red&style=flat-square"></a>
-<a href="https://github.com/NzrlAfndi/Dracule-Mihawk/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NzrlAfndi/Dracule-Mihawk?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/eabdalmufid/dmsc"><img title="Followers" src="https://img.shields.io/github/followers/eabdalmufid?color=blue&style=flat-square"></a>
+<a href="https://github.com/eabdalmufid/dmsc"><img title="Stars" src="https://img.shields.io/github/stars/eabdalmufid/dmsc?color=red&style=flat-square"></a>
+<a href="https://github.com/eabdalmufid/dmsc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eabdalmufid/dmsc?color=red&style=flat-square"></a>
+<a href="/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eabdalmufid/dmsc?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ---
@@ -24,17 +24,17 @@
 
 ## For Your Info ☕
 ```bash
-This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Nzrl Afndi`](https://github.com/NzrlAfndi/Dracule-Mihawk) You Can Get The Edited Script In Channel [`FBOTZ YT`](https://youtube.com/c/FBOTZYT)
+This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Abdul Mufid`](https://github.com/eabdalmufid/dmsc) You Can Get The Edited Script In Channel [`FBOTZ YT`](https://youtube.com/c/FBOTZYT)
 ```
 
 ## Connect With Me 🌱
 <p align="center">
-  <a href="https://instagram.com/_nzrlafndi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://chat.whatsapp.com/CSqakw6x2wRIOWTPL5a6a9"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/eabdalmufid_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://wa.me/6285609233482"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://youtube.com/c/FBOTZYT"><img src="https://img.shields.io/badge/YouTube-FBOTZ%20YT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/FBOTZYT" /><br>
   <a name=NzrlAfndi&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/NzrlAfndi"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/eabdalmufid"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/FBOTZYT"><img src="https://img.shields.io/youtube/channel/subscribers/RyuukaBotz?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=NzrlAfndi&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=NzrlAfndi&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
@@ -67,8 +67,8 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ```bash
-git clone https://github.com/NzrlAfndi/Dracule-Mihawk
-cd Dracule-Mihawk
+git clone https://github.com/eabdalmufid/dmsc
+cd dmsc
 npm install
 ```
 
@@ -86,8 +86,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/NzrlAfndi/Dracule-Mihawk
-cd Dracule-Mihawk
+git clone https://github.com/eabdalmufid/dmsc
+cd dmsc
 npm install
 ```
 
@@ -103,4 +103,4 @@ $ npm run dev
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`settings.js`](https://github.com/NzrlAfndi/Dracule-Mihawk/blob/master/settings.js)
+Editing Number Owner And More On [`settings.js`](/blob/master/settings.js)
